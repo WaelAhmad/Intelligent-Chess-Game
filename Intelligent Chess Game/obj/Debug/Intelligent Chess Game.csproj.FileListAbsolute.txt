@@ -1,0 +1,26 @@
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent_Chess_Game.Form1.resources
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent_Chess_Game.Properties.Resources.resources
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.csproj.GenerateResource.Cache
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.exe.config
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.exe
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.pdb
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.exe
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.pdb
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.exe.config
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.exe
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.pdb
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent_Chess_Game.Form1.resources
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent_Chess_Game.Properties.Resources.resources
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.csproj.GenerateResource.cache
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.csproj.CoreCompileInputs.cache
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.exe
+E:\Handasa\4th_CSE\2nd_sem\AI\Sheets\Sheets\29042018\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.pdb
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.exe.config
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.exe
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.pdb
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.exe
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\bin\Debug\Intelligent Chess Game.pdb
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.csprojResolveAssemblyReference.cache
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent_Chess_Game.Form1.resources
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent_Chess_Game.Properties.Resources.resources
+C:\Comp\4th YEAR\SECOND SEMESTER\SUBJECTS\AI\Project\29042018\Intelligent Chess Game\Intelligent Chess Game\obj\Debug\Intelligent Chess Game.csproj.GenerateResource.Cache
